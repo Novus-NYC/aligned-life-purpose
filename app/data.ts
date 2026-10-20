@@ -5,7 +5,7 @@ export const site = {
   email: "hello@alignedlifepurpose.com",
   phone: "(000) 000-0000",
   linkedin: "https://www.linkedin.com/company/aligned-life-purpose/",
-  volta: "https://voltanyc.org/",
+  novus: "https://www.novusnyc.org/",
 };
 
 export const navItems = [
